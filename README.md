@@ -1,2 +1,2 @@
 # SNEK
-Snake game in python using only pygame
+Snake game withpython using only pygame
