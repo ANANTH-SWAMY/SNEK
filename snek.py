@@ -168,7 +168,7 @@ def main_menu():
         pygame.draw.rect(win, white, button_2)
         win.blit(font.render("QUIT",True,black) , [270,210])
 
-        win.blit(font_small.render("© 2021 ARYAN AND ANANTH",True,white) , [0,385])
+        
 
         click = False
         for event in pygame.event.get():
