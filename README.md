@@ -1,4 +1,4 @@
-#SNEK
+# SNEK
 
 A remake of everyone's favourite Snake game
 * 5 Levels
